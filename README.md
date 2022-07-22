@@ -4,8 +4,8 @@
 <p align="right">
   <img src="https://user-images.githubusercontent.com/62767282/180465511-1755173d-c2f3-4aea-b1db-506a81ae6a69.gif" alt="animated" />
 
-  <h1 align="center">Hi 👋, I'm Serdar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+  <h1 align="left">Hi 👋, I'm Serdar</h1>
+<h3 align="left">A passionate frontend developer</h3>
 
  </p>
 
