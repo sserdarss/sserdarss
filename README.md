@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47yi3k07yx5h7a95j6hr9ki3t6pj0hj4rx81yy9rig&rid=giphy.gif&ct=g)" width="600" height="300"/>
 </div>
  
 ### :man_technologist: About Me :
