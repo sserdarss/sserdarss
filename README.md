@@ -11,7 +11,8 @@
   <a href="mailto:mustafa_altuntas35@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  
+  ![giphy](https://user-images.githubusercontent.com/62767282/180422726-8cf257a6-246f-4895-870e-c250704d7085.gif)
+
  </div>
  <div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=altuntas-mustafa&style=flat-square&color=blue" alt=""/>
@@ -21,7 +22,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://www.adultswim.com/videos/rick-and-morty" width="600" height="300"/>
+  <img src="" height="300"/>
 </div>
  
 ### :man_technologist: About Me :
