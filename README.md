@@ -7,9 +7,9 @@
   <h1 align="left">Hi 👋, I'm Serdar</h1>
 <h3 align="left">A passionate frontend developer</h3>
   
-
-
  </p>
+
+
 
 
 
