@@ -1,8 +1,5 @@
 ### Hi there 👋
-<div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/kbRb4eyCNC0aMz5x68" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adultswim-computer-typing-hacking-kbRb4eyCNC0aMz5x68">via GIPHY</a></p>" width="100"/>
-</div>
-<div id="badges" align="center">
+
   
   
   <a href="mailto:serdarsorgun@icloud.com">
