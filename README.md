@@ -1,8 +1,14 @@
-### Hi there 👋
-
-  
-  
-  <a href="mailto:serdarsorgun@icloud.com">
+<div id="header" align="center">
+  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/kbRb4eyCNC0aMz5x68" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/adultswim-computer-typing-hacking-kbRb4eyCNC0aMz5x68">via GIPHY</a></p>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mustafa-altuntas/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/mustaafaa_altuntas/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:mustafa_altuntas35@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   
@@ -19,6 +25,10 @@
 </div>
  
 ### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+- 🌱 - 🔭 I’m currently Full Stack Developer and Searching a job
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mustafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-altuntas/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa_altuntas35@hotmail.com)
 - 
